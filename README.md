@@ -2,3 +2,4 @@
 # add basket feature
 # add product to basket feature
 # add new products
+# delete product from basket
